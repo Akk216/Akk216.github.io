@@ -19,6 +19,7 @@ group :jekyll_plugins do
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     #gem 'mini_racer', '0.6.3'
+    gem 'faraday-retry'
     gem 'unicode_utils'
     gem 'webrick'
 end
