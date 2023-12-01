@@ -81,13 +81,13 @@
   type: time_table
   contents:
     - title: Final year Project (B. Tech Project)
-      year: 2023-24
+      year: 2023 to 24
       description: Working on making advancements in Explainable Reinforcement learning in Control theory
-    -title: Colloids Term Project
+    - title: Colloids Term Project
       year: 2023
       description: Colloidal Drop Drying prediction using geometric synthetic data generation and Transfer learning
     
-    -title: Ecological Term Project
+    - title: Ecological Term Project
       year: 2023
       description: Mapping of Fig Trees across IIT Madras Campus for Ecological sustainability study.
 
@@ -98,11 +98,11 @@
     - title: Toyota Connected India Limited, Vision Team Navi AR, Lane ID
       year: 2022-23
       description: Worked on developing Vision Pipeline in AWS Servers for automated driving
-    -title: CONXAI X CNS Lab
+    - title: CONXAI X CNS Lab
       year: 2022-23
       description: Developed Graph based reasoning networks for resource identification and allocation from video feed
     
-    -title: Computer Vision and Intelligence Club
+    - title: Computer Vision and Intelligence Club
       year: 2022-23
       description: 
       - title: Joint Angle Estimation
