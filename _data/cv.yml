@@ -15,8 +15,8 @@
       institution: Indian Instiute of Technology Madras
       year: 2024
       description:
-        - Major - Chemical Engineering.
-        - Minor - Computing.
+        - Major in Chemical Engineering.
+        - Minor in Computing.
         - title: Undergraduate Research Areas.
           contents:
             - Computer Vision
@@ -30,7 +30,7 @@
       year: 2020
       description:
         - Certificate of Merit for top 0.1%.
-        - Science Stream - Physics, Chemistry, Mathematics, & Computer Science.
+        - Science Stream including Physics, Chemistry, Mathematics, & Computer Science.
 
 - title: Experience
   type: time_table
@@ -40,21 +40,21 @@
       institution: Generative AI Innovation Center, USA
       year: 2023-24
       description:
-        - Working on advancements in Multi-source free domain adaptation
+        - Working on advancements in Multi source free domain adaptation
         - Working on advancements in improving robustness of DeepFake detection
 
-    - title: Research Intern - Charpak Lab Scholarship
+    - title: Research Intern Charpak Lab Scholarship
       institution: Universite Paris Cite
-      year: May'23 - Present
+      year: May'23 to Present
       description:
-        - title: Time series Anomaly Detection - Improvement of Volume Under Surface (VUS) Range based anomaly detection metric
+        - title: Time series Anomaly Detection, Improvement of Volume Under Surface (VUS) Range based anomaly detection metric
           contents:
-            - Five-fold runtime improvement
+            - Fivefold runtime improvement
             - Reduction in Time and Space Complexity
-            - Verified on Synthetic Data and TSB-UAD Benchmark
-        - title: Time series Classification - Use of Series2Graph model, to produce explainable time series classfication.
+            - Verified on Synthetic Data and TSB UAD Benchmark
+        - title: Time series Classification, Use of Series2Graph model, to produce explainable time series classfication.
           contents:
-            - Unified Graph based representation for Time-series
+            - Unified Graph based representation for Time series
             - Expainability in classification based on nodes and edges
     - title: Research Intern
       institution: National University of Singapore
@@ -68,14 +68,14 @@
       year: 2022-23
       description:
         - Developed ML based Chemical Kinetics Model for Fluidized bed reactor
-        - Bottleneck network for reducing and grouping multi-dimensional Input data
+        - Bottleneck network for reducing and grouping multi dimensional Input data
 
     - title: Technical University of Munich
       institution: Technical University of Munich, Germany
       year: Jun'22-Sept'22
       description:
         - Developed XAFS data generation pipeline
-        - Used PCA and ANN to produce composition prediction for noisy-empirical data
+        - Used PCA and ANN to produce composition prediction for noisy empirical data
 
 - title: Course based Projects
   type: time_table
@@ -95,7 +95,7 @@
 - title: Work Experience
   type: time_table
   contents:
-    - title: Toyota Connected India Limited, Vision Team - Navi AR, Lane ID
+    - title: Toyota Connected India Limited, Vision Team Navi AR, Lane ID
       year: 2022-23
       description: Worked on developing Vision Pipeline in AWS Servers for automated driving
     -title: CONXAI X CNS Lab
@@ -106,9 +106,9 @@
       year: 2022-23
       description: 
       - title: Joint Angle Estimation
-        description: Enhanced Lightweight Joint Angle Estimation to get real-time joint angle estimates by monocular lens
+        description: Enhanced Lightweight Joint Angle Estimation to get real time joint angle estimates by monocular lens
 
-- title: Open Source Projects - Computer Vision and Intelligence Club
+- title: Open Source Projects, Computer Vision and Intelligence Club
   type: time_table
   contents:
     - title: Facial Expresssion Recognition (FER)
