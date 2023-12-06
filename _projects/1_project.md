@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Generative AI Innovation Center -2023-24, Amazon
+description: Open-set Multi Source Free Domain Adaptation
 img: assets/img/12.jpg
 importance: 1
 category: work
