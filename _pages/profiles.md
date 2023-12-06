@@ -18,7 +18,7 @@ profiles:
       Paris 75006, France
   - align: left
     image: Paul.jpg
-    content: about_Paul.md
+    content: about_paul.md
     image_circular: false # crops the image to make it circular
     more_info: >
       Inria, Paris, France
