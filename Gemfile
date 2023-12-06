@@ -22,6 +22,7 @@ group :jekyll_plugins do
     gem 'faraday-retry'
     gem 'unicode_utils'
     gem 'webrick'
+    gem 'listen'
 end
 group :other_plugins do
     gem 'feedjira'
