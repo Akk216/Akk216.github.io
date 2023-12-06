@@ -45,7 +45,7 @@
 
     - title: Research Intern Charpak Lab Scholarship
       institution: Universite Paris Cite
-      year: May'23 to Present
+      year: May'23 - Aug'23
       description:
         - title: Time series Anomaly Detection, Improvement of Volume Under Surface (VUS) Range based anomaly detection metric
           contents:
@@ -58,7 +58,7 @@
             - Expainability in classification based on nodes and edges
     - title: Research Intern
       institution: National University of Singapore
-      year: Mar'23 - Oct'23
+      year: Mar'23 - Sep'23
       description:
         - Developed realistic surgical settings to integrate LLM based control
         - Combined and improved several surgical simualators for image based RL control
