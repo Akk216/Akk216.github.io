@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Welcome to my cozy corner in the internet
+subtitle: Welcome to my Cozy corner in the Net
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     Chennai, TN,
