@@ -102,11 +102,9 @@
       year: 2022-23
       description: Developed Graph based reasoning networks for resource identification and allocation from video feed
     
-    - title: Computer Vision and Intelligence Club
+    - title: Joint Angle Estimation - Computer Vision and Intelligence Club
       year: 2022-23
-      contents: 
-      - title: Joint Angle Estimation
-        description: Enhanced Lightweight Joint Angle Estimation to get real time joint angle estimates by monocular lens
+      description: Enhanced Lightweight Joint Angle Estimation to get real time joint angle estimates by monocular lens
 
 - title: Open Source Projects, Computer Vision and Intelligence Club
   type: time_table
