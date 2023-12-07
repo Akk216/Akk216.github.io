@@ -105,8 +105,6 @@
     - title: Computer Vision and Intelligence Club
       year: 2022-23
       contents: 
-      - title: Emotion/Expression Detection
-        description: Improved Facial Expression Recognition- open source repository from Justin Shenk to increase speed.
       - title: Joint Angle Estimation
         description: Enhanced Lightweight Joint Angle Estimation to get real time joint angle estimates by monocular lens
 
