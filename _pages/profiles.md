@@ -29,7 +29,7 @@ profiles:
     more_info: >
       The Chinese University of Hong Kong
   - align: left
-    image: Lalith.jpg
+    image: lalith.jpg
     content: about_Lalith.md
     image_circular: false # crops the image to make it circular
     more_info: >
