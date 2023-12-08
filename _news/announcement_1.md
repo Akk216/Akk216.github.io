@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-12-07 18:00:00-0400
 inline: true
-related_posts: false
+related_posts: true
 ---
 
-A simple inline announcement.
+The Energy Summit'23 - 2 day event: 6th - 7th December
