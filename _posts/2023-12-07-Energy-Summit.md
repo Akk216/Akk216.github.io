@@ -10,7 +10,7 @@ related_posts: false
 related_publications: 
 ---
 
-The event was filled with seminars from distinguished professors from across the world introducing revolutionary technologies and frameworks for energy consevation, energy security and approaches to green energy etc.
+The event was filled with seminars from distinguished professors worldwide introducing revolutionary technologies and frameworks for energy conservation, energy security and, approaches to green energy, etc.
 
 The Energy Summit 2023:
 
